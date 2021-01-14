@@ -1,5 +1,5 @@
 '''
-wdSync v0.1 by Klykov Leonid
+wdSync v0.0 by Klykov Leonid
 Программа для отправки со стендов на сервер файлов с результатами испытаний
 Development started 2020/12/30
 Спасибо за идею AterCattus`у, его пост от 25 марта 2012 в 14:51 https://habr.com/ru/post/140649/
